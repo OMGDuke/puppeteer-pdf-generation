@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-pdf-generation",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:OMGDuke/puppeteer-pdf-generation.git",
+  "author": "OMGDuke <alex@omgduke.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
